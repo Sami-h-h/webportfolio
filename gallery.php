@@ -31,7 +31,7 @@
 			<a name="a1" href="#">Home</a>
 			<a name="a1" href="#">Pick Your Character</a>
 			<a name="a1" href="?logout">Portfolio</a>
-			<a name="a1" href="?logout"></a>
+			
 			<button class="btnLogin-popup" onclick="redirectToLink('?logout')">Logout</button>
 			
 			
@@ -82,17 +82,17 @@
 		Meet the crew
 	</div>
 	
-	<img class = "preview" alt = "AIDEN" src = "/assets/css/gallery-images/gallery (1).gif" onmouseover = "upDate(this)" onmouseout = "unDo()">
+	<img class = "preview" alt = "AIDEN" src = "/assets/css/gallery-images/1.gif" onmouseover = "upDate(this)" onmouseout = "unDo()">
 	
-	<img class = "preview" alt = "Eli" src = "/assets/css/gallery-images/gallery (2).gif" onmouseover = "upDate(this)" onmouseout = "unDo()">
+	<img class = "preview" alt = "Eli" src = "/assets/css/gallery-images/2.gif" onmouseover = "upDate(this)" onmouseout = "unDo()">
 	
-	<img class = "preview" src = "/assets/css/gallery-images/gallery (3).gif" alt = "Luca" onmouseover = "upDate(this)" onmouseout = "unDo()">
+	<img class = "preview" src = "/assets/css/gallery-images/3.gif" alt = "Luca" onmouseover = "upDate(this)" onmouseout = "unDo()">
 
-	<img class = "preview" alt = "Blue" src = "/assets/css/gallery-images/gallery.gif" onmouseover = "upDate(this)" onmouseout = "unDo()">
+	<img class = "preview" alt = "Blue" src = "/assets/css/gallery-images/4.gif" onmouseover = "upDate(this)" onmouseout = "unDo()">
 
-	<img class = "preview" alt = "Kace" src = "assets/css/gallery-images/gallery (4).gif" onmouseover = "upDate(this)" onmouseout = "unDo()">
+	<img class = "preview" alt = "Kace" src = "assets/css/gallery-images/5.gif" onmouseover = "upDate(this)" onmouseout = "unDo()">
 
-	<img class = "preview" alt = "Josiah" src = "assets/css/gallery-images/gallery (5).gif" onmouseover = "upDate(this)" onmouseout = "unDo()">
+	<img class = "preview" alt = "Josiah" src = "assets/css/gallery-images/6.gif" onmouseover = "upDate(this)" onmouseout = "unDo()">
 
 	
 </div>

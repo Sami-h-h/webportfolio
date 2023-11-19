@@ -16,6 +16,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	 <link rel="stylesheet" href="/assets/css/style1.css">
+	 <script src = "gallery.js"></script>
 	<title>User account</title>
 </head>
 <body class="home">
@@ -28,7 +29,7 @@
 			<a name="a1" href="#">Home</a>
 			<a name="a1" href="gallery.php">Pick Your Character</a>
 			<a name="a1" href="?logout">Portfolio</a>
-			<a name="a1" href="?logout"></a>
+			
 			<button class="btnLogin-popup" onclick="redirectToLink('?logout')">Logout</button>
 			
 			

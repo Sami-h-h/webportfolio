@@ -75,5 +75,10 @@
         "username": "sami1",
         "email": "sami1@gmail.com",
         "password": "$2y$10$N\/9BCqPmWD02XhswicF5O..m8CF7.n.jkljfWtzl1O9qd2b1G2VAC"
+    },
+    {
+        "username": "arlene",
+        "email": "arleneflores@gmail.com",
+        "password": "$2y$10$fi9LKgrJ3J2dZURvGzCG.Odv5ToLD3pjk3KeAIeJAlxNxaCwhlyom"
     }
 ]
