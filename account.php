@@ -26,7 +26,7 @@
 		
 		<nav class="navigation">
 			<a name="a1" href="#">Home</a>
-			<a name="a1" href="#">Pick Your Character</a>
+			<a name="a1" href="gallery.php">Pick Your Character</a>
 			<a name="a1" href="?logout">Portfolio</a>
 			<a name="a1" href="?logout"></a>
 			<button class="btnLogin-popup" onclick="redirectToLink('?logout')">Logout</button>

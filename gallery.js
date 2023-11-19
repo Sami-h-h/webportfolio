@@ -4,7 +4,7 @@ function upDate(previewPic){
 }
 
 function unDo(){
-    document.getElementById("image").style.backgroundImage = "url('')";
+    document.getElementById("image").style.backgroundImage = "url('/assets/images/background.gif')";
    document.getElementById("image").innerHTML = "Choose your character"
 }
 
