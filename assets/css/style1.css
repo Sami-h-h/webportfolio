@@ -89,9 +89,9 @@ body.home {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('/assets/images/bg1.gif') no-repeat;
+    background: url('/assets/images/background8.gif') no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: bottom;
 }
 
 .wrapper{

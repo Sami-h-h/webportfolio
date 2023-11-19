@@ -22,13 +22,13 @@
 <body class="home">
 
 	<header>
-		<h2 class="logo">Logo</h2>
+		<h2 class="logo">Tavern</h2>
 		<h2 class="logo">Welcome <?php echo $_SESSION['user']; ?><h2>
 		
 		<nav class="navigation">
-			<a name="a1" href="#">Home</a>
+			<a name="a1" href="account.php">Home</a>
 			<a name="a1" href="gallery.php">Pick Your Character</a>
-			<a name="a1" href="?logout">Portfolio</a>
+			<a name="a1" href="portfolio.php">Portfolio</a>
 			
 			<button class="btnLogin-popup" onclick="redirectToLink('?logout')">Logout</button>
 			

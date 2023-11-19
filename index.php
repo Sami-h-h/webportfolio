@@ -61,7 +61,14 @@ if(isset($_POST['submit'])){
                     <label class="sex">Sex</label>
                     <div class="sex">
                         
+                    <label for="male">Male</label>
+                <input type="radio" id="male" name="gender" value="male">
 
+                <label for="female">Female</label>
+                 <input type="radio" id="female" name="gender" value="female">
+
+                <label for="other">Other</label>
+                <input type="radio" id="other" name="gender" value="other">
 
 
                     </div>

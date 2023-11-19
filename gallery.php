@@ -24,13 +24,13 @@
 
 		<!--header-->
 		<header>
-		<h2 class="logo">Logo</h2>
+		<h2 class="logo">Tavern</h2>
 		<h2 class="logo">Welcome <?php echo $_SESSION['user']; ?><h2>
 		
 		<nav class="navigation">
-			<a name="a1" href="#">Home</a>
-			<a name="a1" href="#">Pick Your Character</a>
-			<a name="a1" href="?logout">Portfolio</a>
+			<a name="a1" href="account.php">Home</a>
+			<a name="a1" href="gallery.php">Pick Your Character</a>
+			<a name="a1" href="portfolio.php">Portfolio</a>
 			
 			<button class="btnLogin-popup" onclick="redirectToLink('?logout')">Logout</button>
 			
@@ -38,6 +38,7 @@
 			
 		</nav>
 	</header>
+
 
 
 
@@ -78,9 +79,7 @@
 
 
 
-<div id = "image">
-		Meet the crew
-	</div>
+
 	
 	<img class = "preview" alt = "AIDEN" src = "/assets/css/gallery-images/1.gif" onmouseover = "upDate(this)" onmouseout = "unDo()">
 	
@@ -96,9 +95,15 @@
 
 	
 </div>
+
+<div id = "image">
+		Meet the crew
+	</div>
 </div>
 
-
+<div class="ann">
+	<h1 class="title"> Gallery</h1>
+</div>
 
 
 	
@@ -111,30 +116,23 @@
 	const jsonData = {
 		"images": [
 		 {
-			"url": "/assets/css/gallery-images/Aiden.jpeg",
+			"url": "/assets/css/gallery-images/c1.gif",
 			"alt": "Image 1"
 		  },
 		  {
-			"url": "/assets/css/gallery-images/Eli.jpeg",
+			"url": "/assets/css/gallery-images/c2.gif",
 			"alt": "Image 2"
 		  },
 		  
 		  {
-			"url": "/assets/css/gallery-images/Luca.jpeg",
+			"url": "/assets/css/gallery-images/c3.gif",
 			"alt": "Image 3"
 		  },
 		  {
-			"url": "/assets/css/gallery-images/Blue.jpeg",
+			"url": "/assets/css/gallery-images/c4.gif",
 			"alt": "Image 4"
 		  },
-		  {
-			"url": "/assets/css/gallery-images/Blue.jpeg",
-			"alt": "Image 5"
-		  },
-		  {
-			"url": "/assets/css/gallery-images/Kace.jpeg",
-			"alt": "Image 6"
-		  }
+		 
 		]
 	  };
 
@@ -150,6 +148,11 @@
 		  picturesContainer.appendChild(imgElement);
 	  });
   </script>
-
+<script>
+        // JavaScript function to redirect to a link
+        function redirectToLink(link) {
+            window.location.href = link;
+        }
+    </script>
 </body>
 </html>

@@ -1,30 +1,24 @@
-{
+ {
   "images": [
    {
-    "url": "/assets/css/gallery-images/Aiden.jpeg",
+    "url": "/assets/css/gallery-images/c1.gif",
     "alt": "Image 1"
     },
     {
-    "url": "/assets/css/gallery-images/Eli.jpeg",
+    "url": "/assets/css/gallery-images/c2.jpeg",
     "alt": "Image 2"
     },
     
     {
-    "url": "/assets/css/gallery-images/Luca.jpeg",
+    "url": "/assets/css/gallery-images/c3.jpeg",
     "alt": "Image 3"
     },
     {
-    "url": "/assets/css/gallery-images/Blue.jpeg",
+    "url": "/assets/css/gallery-images/c4.jpeg",
     "alt": "Image 4"
-    },
-    {
-    "url": "/assets/css/gallery-images/Blue.jpeg",
-    "alt": "Image 5"
-    },
-    {
-    "url": "/assets/css/gallery-images/Kace.jpeg",
-    "alt": "Image 6"
     }
+   
   ]
   }
+
   

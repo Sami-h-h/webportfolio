@@ -42,6 +42,7 @@ img{
     display: inline-block;
     transition: transform 0.3s ease;
     padding: 8.px;
+    margin-bottom: 5%;
 
 }
 
@@ -69,9 +70,14 @@ img{
 }
 
 
+.ann{
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    font-size: 4em;
+    text-align: center;
 
-
-
+}
 
 
 
