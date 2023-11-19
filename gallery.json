@@ -1,0 +1,30 @@
+{
+  "images": [
+   {
+    "url": "/assets/css/gallery-images/Aiden.jpeg",
+    "alt": "Image 1"
+    },
+    {
+    "url": "/assets/css/gallery-images/Eli.jpeg",
+    "alt": "Image 2"
+    },
+    
+    {
+    "url": "/assets/css/gallery-images/Luca.jpeg",
+    "alt": "Image 3"
+    },
+    {
+    "url": "/assets/css/gallery-images/Blue.jpeg",
+    "alt": "Image 4"
+    },
+    {
+    "url": "/assets/css/gallery-images/Blue.jpeg",
+    "alt": "Image 5"
+    },
+    {
+    "url": "/assets/css/gallery-images/Kace.jpeg",
+    "alt": "Image 6"
+    }
+  ]
+  }
+  

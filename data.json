@@ -1,0 +1,79 @@
+[
+    {
+        "username": "sdsd",
+        "password": "$2y$10$Yfqq7bgqZ1fPS1EcijOsK.t0EiGFWOddhxOJwjWSB.zfBqfyF5cGu"
+    },
+    {
+        "username": "dsdsds",
+        "password": "$2y$10$zYU8RZVOi8JW5fICRtJcB.E\/h0oNcDg3hkk5SUVvQ.AH\/JQkTcC0m"
+    },
+    {
+        "username": "sami",
+        "password": "$2y$10$e4MHJPaEMX3ixO5xbRNvCObV4mRx454iPXko1saYffjrBzRMbFodu"
+    },
+    {
+        "username": "asdasd",
+        "password": "$2y$10$7N1\/G4IhoSm\/gxj7W8dPcu8k20RvDuMXk2ZwJ4u2wplOfr1xG8pNS",
+        "email": "sdsdad"
+    },
+    {
+        "username": "yes",
+        "password": "$2y$10$NQiZiC6U84KCakadEkBBbO1Skfiu5RhIi.cNiHqmswa5Eb2Bx44e6",
+        "email": "sami135135"
+    },
+    {
+        "username": "jim",
+        "password": "$2y$10$iiIsTZ4.OymURSmX1cCFPuuGJgiBrciiQLMgnETX40zd.hLzvJU1O",
+        "email": "asda"
+    },
+    {
+        "username": "jack",
+        "email": "yes",
+        "password": "$2y$10$8RkZ9bbRuZDgV2tE4cRoouLw.64Zt3bV9KfFQi2nyGEdgYFZ.tHze"
+    },
+    {
+        "username": "max",
+        "email": "max135135",
+        "password": "$2y$10$J5iFMJ57C2cmrO6oU0a\/MuuK4G6K48xdzOkFSjt8G8JOGRDvkVF0a"
+    },
+    {
+        "username": "monkey",
+        "password": "sami",
+        "email": "$2y$10$b0peOK07.90doX8gaaiuOOo2.MjA5w.S3\/DHPmEhVMJEVPPOnh\/OC"
+    },
+    {
+        "username": "tomato",
+        "password": "tomato@gmail.com",
+        "email": "$2y$10$WCio2Pi4VM2PT.MlvpVNhuju.kRu1QIH43VpA9kZ8jNMsdNA94gIS"
+    },
+    {
+        "username": "sami135135",
+        "email": "sami@gmail.com",
+        "password": "$2y$10$JoWA29yWsxwDyRxLtOCLHObm4dDT8lwl9GyZR6qAtTcn7YTDT4gwC"
+    },
+    {
+        "username": "bashar",
+        "email": "bashar@gmail.com",
+        "password": "$2y$10$j.aYM1Y54wGweC1QpmY3qO73J81GImQUlATNSMR4xUYk4lcIozmJS"
+    },
+    {
+        "username": "bob",
+        "email": "bob@gmail.com",
+        "password": "$2y$10$ZR7tAPWmkqkXeH3b5Ihn.OAyt5J18.1XbJ4YXfpsBJdmJrWuQMwse"
+    },
+    {
+        "username": "test",
+        "email": "test1@gmail.com",
+        "password": "$2y$10$hRBYImpV6UD1OYWNBqLu.OLudkLrpCEK4XBTmFziurzto9SLTXb6y"
+    },
+    {
+        "username": "tt1",
+        "email": "tt1@gmail.com",
+        "password": "$2y$10$7aCt4o2DVuHALSvulF6WKeKGuHeiHFlyzLf0PLhaZ1eSyq28SWvTu"
+    },
+    {
+        "username": "sami1",
+        "email": "sami1@gmail.com",
+        "password": "$2y$10$N\/9BCqPmWD02XhswicF5O..m8CF7.n.jkljfWtzl1O9qd2b1G2VAC"
+    }
+]
