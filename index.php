@@ -1,4 +1,6 @@
-<?php require("register.class.php") ?>
+<?php 
+session_start();
+require("register.class.php") ?>
 
 <?php
 

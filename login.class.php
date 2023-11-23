@@ -1,4 +1,5 @@
 <?php 
+ob_start();
 class LoginUser{
 	// class properties
 	private $username;

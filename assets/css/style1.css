@@ -80,7 +80,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('/assets/images/bg3.gif') no-repeat;
+    background:url('/assets/images/bg3.gif') no-repeat;
     background-size: cover;
     background-position: center;
 }

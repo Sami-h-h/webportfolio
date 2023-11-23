@@ -1,6 +1,8 @@
 
 
-<?php require("login.class.php") ?>
+<?php
+session_start();
+require("login.class.php") ?>
 <?php 
 	if(isset($_POST['submit'])){
 		$user = new LoginUser($_POST['username'], $_POST['password']);
@@ -21,10 +23,7 @@
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 
-<!-- 
-    <div class="Header">
-        <h1>WELCOME</h1>
-    </div> -->
+
 
     <div class="wrapper" >
         <div class="form-box login">
@@ -46,7 +45,7 @@
                        
                     </div>
 
-                    <button type="submit" class="btn" name="submit">Login</button>
+                   <a href="account.php" ><button type="submit" class="btn" name="submit">Login</button></a>
                     <div class="login-register">
                         <p>Don't have an account?<a href="index.php" class="register-link">Register</a></p>
                     </div>
